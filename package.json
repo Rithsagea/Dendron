@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/Rithsagea/Dendron#readme",
   "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
     "@notionhq/client": "^2.2.2",
-    "config": "^3.3.8"
+    "config": "^3.3.8",
+    "googleapis": "^105.0.0"
   }
 }
